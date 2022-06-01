@@ -943,8 +943,8 @@
         (numGroup == 1) ? 'Group limit reached ({n} item max)' : 'Group limit reached ({n} items max)'
       ];
     },
-    selectAllText: 'Select All',
-    deselectAllText: 'Deselect All',
+    selectAllText: 'Valitse kaikki',
+    deselectAllText: 'Poista kaikki',
     source: {
       pageSize: 40
     },
